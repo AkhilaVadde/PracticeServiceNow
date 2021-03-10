@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="employee table" max_length="40" name="x_594718_sru4_employee_table" sizeclass="1" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="emp id" max_length="40" name="emp_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Emp name" max_length="40" name="emp_name" type="string"/>
+        <element label="emp salary" max_length="40" name="emp_salary" type="integer"/>
+    </element>
+</database>

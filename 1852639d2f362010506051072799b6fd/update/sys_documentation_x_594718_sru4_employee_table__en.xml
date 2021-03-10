@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="employee table" language="en" table="x_594718_sru4_employee_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>employee table</label>
+            <language>en</language>
+            <name>x_594718_sru4_employee_table</name>
+            <plural>employee tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-09 09:57:26</sys_created_on>
+            <sys_id>59f2a3dd2f362010506051072799b657</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>employee table</sys_name>
+            <sys_package display_value="SRU4" source="x_594718_sru4">1852639d2f362010506051072799b6fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRU4">1852639d2f362010506051072799b6fd</sys_scope>
+            <sys_update_name>sys_documentation_x_594718_sru4_employee_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-09 09:57:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
